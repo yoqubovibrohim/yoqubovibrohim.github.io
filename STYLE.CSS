@@ -1,0 +1,188 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+header {
+    background-image: url(./img/75ae05112787439\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.menu {
+    width: 360px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    color: white;
+}
+
+nav .menu ul {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 360px;
+    height: 24px;
+}
+
+header .nav .menu ul li {
+    color: white;
+}
+
+header .nav .menu img {
+    width: 360px;
+    height: 200px;
+}
+
+.top {
+    color: white;
+}
+
+.ge {
+    text-align: center;
+    margin: left 500px;
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+
+}
+
+.ge h1 {
+    border: 2px solid green;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.ge p {
+    margin: auto;
+    text-align: center;
+}
+
+.huy {
+    justify-content: space-around;
+    margin: auto;
+}
+
+.ju {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.h2 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.io {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.botton {
+    background-color: black;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.te {
+    background-color: blue;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.ke {
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.ye {
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.huy img {
+    border-radius: 100%;
+}
+
+.ye:hover {
+    border: 3px solid red;
+
+}
+
+.ke:hover {
+    border: 3px solid red;
+}
+
+.te:hover {
+    border: 3px solid red;
+    background-color: blue;
+
+}
+
+.top button {
+    background-color: blue;
+}
+
+.top {
+    margin-top: 400px;
+    margin-left: 100px;
+}
+
+.yu button {
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    margin-top: 25px;
+    width:3 60px;
+    height: 15px;
+    border-radius: 10px;
+}
+
+.ti {
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 80px;
+    height: 34px;
+    display: flex;
+    border-radius: 50px;
+    justify-content: space-around;
+}
+
+.yu input {
+    border-radius: 5px;
+    width: 360px;
+    height: 10px;
+}
+
+.huy h2 {
+    margin-left: 360px;
+    margin-top: 100px;
+    color: blue;
+}
+
+.te h2 {
+    color: white;
+}
+
+.yu {
+    color: white;
+    padding: 10px;
+}
+
